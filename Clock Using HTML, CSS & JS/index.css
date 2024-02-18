@@ -7,6 +7,7 @@
     background-size: 100%;
 }
 
+
 #hour, #minute, #second{
     position: absolute;
     background: black;
